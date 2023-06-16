@@ -46,7 +46,9 @@ umut ve hayat olmak isteyen tüm insanları ümit dolu bir ortamda birleştirmey
 ## Hedef Kitle
 
 ★ Türkiyenin her bir yanındaki hayvanseverler
+
 ★ Gönüllü Veterinerler
+
 ★ Ücret Karşılığı Hizmet Veren Veterinerler
 
 
