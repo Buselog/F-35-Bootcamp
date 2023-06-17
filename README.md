@@ -20,7 +20,8 @@ F-35
 --HayDes--
 
 ## Product Backlog URL
--
+
+<a href="https://trello.com/b/IVWSJFTV/sprint-1">F-35 Proje Yönetim Panosu</a>
 
 ## Ürün Açıklaması
 
@@ -50,6 +51,34 @@ umut ve hayat olmak isteyen tüm insanları ümit dolu bir ortamda birleştirmey
 ★ Gönüllü Veterinerler
 
 ★ Ücret Karşılığı Hizmet Veren Veterinerler
+
+
+------------
+
+# Sprint 1
+
+ ### • Sprint içinde tamamlanması gereken puan:
+ 100 puan
+ 
+ 
+ ### • Puan tamamlama mantığı:
+ Projenin sonunda tamamlanması gereken toplam puan (backlog) her bir Sprint başına 100 olacak şekilde 300 olarak kabul edilmiştir.
+ 
+ 
+ ### • Daily Scrum:
+ Kullanım kolaylığı açısından Discord üzerinden, her hafta en az 1 kez sesli toplantıların yapılmasına; toplantı zaman/saati ve önemli gelişmelerin duyurulması açısındansa 
+ WhatsApp uygulamasının kullanılmasına karar verilmiştir.
+ 
+<a href="https://1drv.ms/w/s!Arf2yPG5qhHzgTatBMctWxGs3gy9?e=5O2tky">Sprint 1 Dily Scrum Messages</a>
+ 
+ 
+ ### • Sprint 1 Borard Update: 
+ Sprint 1 board :
+
+https://github.com/Buselog/F-35-Bootcamp/assets/127397448/83ffc92d-2b94-4d4b-b4e6-0451d91e05c1
+
+
+
 
 
 
