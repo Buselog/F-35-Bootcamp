@@ -72,3 +72,16 @@ WhatsApp uygulamasının kullanılmasına karar verilmiştir.
 Sprint 1 board :
 
 https://github.com/Buselog/F-35-Bootcamp/assets/127397448/83ffc92d-2b94-4d4b-b4e6-0451d91e05c1
+
+### • Ürün Durumu:
+
+Sprint 1'de takım üyelerinin gündelik iş yoğunlukları sebebiyle ne tür bir uygulama yapılacağı ve görev dağılımları gibi temel konulara karar verilmiş, kodlama kısmı 2 ve 3. sprintlere bırakılmıştır.
+
+### • Sprint Review:
+İlk sprint sonuna kadar tüm üyelerin katılımıyla toplamda 5 toplantı düzenlenmiş; bu toplantılar sonucunda fark yaratacak uygulama fikirleri üzerine tartışılmış, uygulama için örnek sayfalar gözden geçirilmiş ve her sayfaya sorumlu atanmıştır. Projenin etkin yönetimi için proje akış panosu hazırlanmış, uygulamanın detaylı açıklaması product owner tarafından paylaşılarak projenin ince ayrıntıları netleştirilmiştir.
+
+
+### • Sprint Retrospective:
+
+
+
