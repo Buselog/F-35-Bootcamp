@@ -94,8 +94,11 @@ Sprint 1'de takım üyelerinin gündelik iş yoğunlukları sebebiyle ne tür bi
 ### • Sprint Retrospective:
 
 ‣ Sınav & mezuniyet meşguliyetleri sebebiyle başlanamayan kodlamaya Sprint 2 itibariyle başlanmasına karar verilmiştir.
+
 ‣ Kodlama bölümünün başlaması ile birlikte takım üyelerinin hepsine erişimi açık olan Trello proje panosu, takım üyeleri tarafından daha aktif kullanılacaktır.
+
 ‣ Her üyenin katılım sağladığı haftalık sesli toplantıların devamına karar verilmekle birlikte, önemli gelişmelerde bu toplantı sayısının artırılması gerektiği öngörülmüştür.
+
 ‣ Projenin ilk sprintinde takım üyelerinin realist ve projeyle paralel giden çalışmaları desteklenmiş ve yapılan her çalışmanın diğer üyelerle aktif olarak paylaşılması takım içinde tebrik edilmiştir.
 
 
