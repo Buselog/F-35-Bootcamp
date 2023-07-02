@@ -155,25 +155,15 @@ Ekran Görüntüleri:
 
 ![16](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/728f71a3-8d27-47d8-9a6a-4c6127d72465)
 
-
-![11](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673)
-
-
-![12](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f)
-
-
-![14](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f)
-
-
-![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
-
-<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
-
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673" width="300">
 
 <img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f" width="300">
 
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
 
-<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673" width="300">
+![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
+
+
 
 
 
