@@ -167,6 +167,16 @@ Ekran Görüntüleri:
 
 ![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
 
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
+
+
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f" width="300">
+
+
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673" width="300">
+
+
+
 
 
 
