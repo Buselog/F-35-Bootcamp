@@ -102,5 +102,61 @@ Sprint 1'de takım üyelerinin gündelik iş yoğunlukları sebebiyle ne tür bi
 ‣ Projenin ilk sprintinde takım üyelerinin realist ve projeyle paralel giden çalışmaları desteklenmiş ve yapılan her çalışmanın diğer üyelerle aktif olarak paylaşılması takım içinde tebrik edilmiştir.
 
 
+----
+
+
+# Sprint 2
+
+
+### • Sprint Notları: 
+Trello panomuzda mavi kartlar tamamlanması beklenen görevleri, kırmızı kartlar ise tamamlanmış görevleri temsil etmektedir. İkinci sprint için belirlenen user story Trello panomuzdaki product backlog item'lara tıklandığında detaylı bir şekilde incelenebilir.
+
+
+### • Sprint 2 içinde tamamlanması tahmin edilen puan:
+
+140 puan
+
+### • Puan tamamlama mantığı:
+
+Projenin sonunda tamamlanması gereken toplam puan (backlog) 300 olarak belirlenmiş ve 2. sprinte 140 puan atanmıştır.
+
+### • Daily Scrum:
+
+Kullanım kolaylığı açısından Discord üzerinden, her hafta en az 1 kez sesli toplantıların yapılmasına; toplantı zaman/saati ve önemli gelişmelerin duyurulması açısındansa
+WhatsApp uygulamasının kullanılmasına karar verilmiştir.
+
+<a href="https://1drv.ms/w/s!Arf2yPG5qhHzgUCfJt4WR3P3qlBj?e=dquQfP">Sprint 2 Daily Scrum Messages</a>
+
+### • Sprint 2 Board Update:
+
+Sprint 2 board :
+
+
+
+https://github.com/Buselog/F-35-Bootcamp/assets/127397448/b1825667-78b5-4615-9617-2b5d94a8754f
+
+
+
+### • Ürün Durumu:
+
+
+### • Sprint Review:
+
+2. Sprint sonuna kadar uygulama anasayfası, hayvan detay sayfası, hayvan ekleme sayfası ve ödeme sayfası genel olarak kodlanmış, firebase kurulumu yapılmış ve ğroje kodları için ortak bir reposirtoy oluşturularak klasör yapıları kurgulanmıştır.
+
+
+### • Sprint Retrospective:
+
+‣ Özel sebeplerden ötürü projenin kodlama kısmına dahil olmayan takım üyesinin sayfaları diğer takım arkadaşlarına devredilmiştir.
+
+‣ 1. Sprintteki kadar sık yapılamayan sesli toplantıların 3. Sprintte devamına karar verilmiştir.
+
+‣ 3. ve son sprintte uygulamanın senkronize çalışmasına ve backend tarafına daha fazla ağırlık verilmesine karar verilmiştir.
+
+‣ Projenin ikinci sprintinde takım üyelerinin realist ve projeyle paralel giden çalışmaları desteklenmiş ve kodlanan uygulama sayfaları takım üyelerince tebrik edilmiştir.
+
+
+
+
 
 
