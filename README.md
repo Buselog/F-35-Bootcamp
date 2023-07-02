@@ -165,14 +165,16 @@ Ekran Görüntüleri:
 ![14](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f)
 
 
-<img width="193" alt="13" src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/24ef2380-6304-4e14-978a-668d3342b3e3">
+![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
+
+
 
 
 
 
 ### • Sprint Review:
 
-2. Sprint sonuna kadar uygulama anasayfası, hayvan detay sayfası, hayvan ekleme sayfası ve ödeme sayfası genel olarak kodlanmış, firebase kurulumu yapılmış ve ğroje kodları için ortak bir reposirtoy oluşturularak klasör yapıları kurgulanmıştır.
+2. Sprint sonuna kadar uygulama anasayfası, hayvan detay sayfası, hayvan ekleme sayfası ve ödeme sayfası genel olarak kodlanmış, firebase kurulumu yapılmış ve proje kodları için ortak bir reposirtoy oluşturularak klasör yapıları kurgulanmıştır.
 
 
 ### • Sprint Retrospective:
