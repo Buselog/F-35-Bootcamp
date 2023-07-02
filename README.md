@@ -179,7 +179,6 @@ Ekran Görüntüleri:
 
 ### • Sprint Retrospective:
 
-‣ Özel sebeplerden ötürü projenin kodlama kısmına dahil olmayan takım üyesinin sayfaları diğer takım arkadaşlarına devredilmiştir.
 
 ‣ 1. Sprintteki kadar sık yapılamayan sesli toplantıların 3. Sprintte devamına karar verilmiştir.
 
