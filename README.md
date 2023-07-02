@@ -22,7 +22,7 @@ F-35
 
 ## Product Backlog URL
 
-<a href="https://trello.com/b/IVWSJFTV/sprint-1">F-35 Proje Yönetim Panosu</a>
+<a href="https://trello.com/b/Xm2G8h3q/sprint-2">F-35 Proje Yönetim Panosu</a>
 
 ## Ürün Açıklaması
 
@@ -102,8 +102,13 @@ Sprint 1'de takım üyelerinin gündelik iş yoğunlukları sebebiyle ne tür bi
 ‣ Projenin ilk sprintinde takım üyelerinin realist ve projeyle paralel giden çalışmaları desteklenmiş ve yapılan her çalışmanın diğer üyelerle aktif olarak paylaşılması takım içinde tebrik edilmiştir.
 
 
-----
+-----
 
+## Product Backlog URL 
+
+<a href="https://trello.com/b/Xm2G8h3q/sprint-2">F-35 Proje Yönetim Panosu</a>
+
+-----
 
 # Sprint 2
 
@@ -133,11 +138,36 @@ Sprint 2 board :
 
 
 
-https://github.com/Buselog/F-35-Bootcamp/assets/127397448/b1825667-78b5-4615-9617-2b5d94a8754f
+
+https://github.com/Buselog/F-35-Bootcamp/assets/127397448/bdf70a0a-75dd-4475-a8e2-bd9e54b2985a
+
+
+
 
 
 
 ### • Ürün Durumu:
+
+Ekran Görüntüleri:
+
+![17](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/5346fb2b-0612-41fe-a90d-69e8e747c97b)
+
+
+![16](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/728f71a3-8d27-47d8-9a6a-4c6127d72465)
+
+
+![11](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673)
+
+
+![12](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f)
+
+
+![14](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f)
+
+
+<img width="193" alt="13" src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/24ef2380-6304-4e14-978a-668d3342b3e3">
+
+
 
 
 ### • Sprint Review:
