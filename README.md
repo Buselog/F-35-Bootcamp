@@ -188,6 +188,92 @@ Ekran Görüntüleri:
 
 
 
+-----
+
+## Product Backlog URL 
+
+<a href="https://trello.com/b/ABG2I4Qx/sprint-3">F-35 Proje Yönetim Panosu</a>
+
+-----
+
+# Sprint 3
+
+
+### • Sprint Notları: 
+Trello panomuzda mavi kartlar tamamlanması beklenen görevleri, kırmızı kartlar ise tamamlanmış görevleri temsil etmektedir. İkinci sprint için belirlenen user story Trello panomuzdaki product backlog item'lara tıklandığında detaylı bir şekilde incelenebilir.
+
+
+### • Sprint 3 içinde tamamlanması tahmin edilen puan:
+
+1. Sprintte tamamlanamayan 50 puanın da eklenmesiyle  3. Sprintte tamamlanması tahmin edilen puan 160 olarak belirlenmiştir.
+
+### • Puan tamamlama mantığı:
+
+Projenin sonunda tamamlanması gereken toplam puan (backlog) 300 olarak belirlenmiş, ilk sprintte tamamlanamayan 50 puanın eklenmesiyle 110+50 =160 puan atanmıştır.
+
+### • Daily Scrum:
+
+Kullanım kolaylığı açısından Discord üzerinden, her hafta en az 1 kez sesli toplantıların yapılmasına; toplantı zaman/saati ve önemli gelişmelerin duyurulması açısındansa
+WhatsApp uygulamasının kullanılmasına karar verilmiştir.
+
+<a href="https://1drv.ms/w/s!Arf2yPG5qhHzgUthoa0QUaEMKwBe?e=dj8wTr">Sprint 3 Daily Scrum Messages</a>
+
+### • Sprint 3 Board Update:
+
+Sprint 3 board :
+
+
+
+
+<<<<<<<<Panonun son hali eklenecek>>>>>
+
+
+
+
+
+
+### • Ürün Durumu:
+
+Ekran Görüntüleri:
+
+![17](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/5346fb2b-0612-41fe-a90d-69e8e747c97b)
+
+
+![16](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/728f71a3-8d27-47d8-9a6a-4c6127d72465)
+
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673" width="300">
+
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f" width="300">
+
+<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
+
+![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
+
+
+
+
+
+
+
+
+
+
+### • Sprint Review:
+
+3. Sprint sonuna kadar uygulama anasayfası, hayvan detay sayfası, hayvan ekleme sayfası ve ödeme sayfası detaylı olarak kodlanmış, firebase kurulumu tamamlanmış ve proje kodları için oluşturulan ortak github repositorye tüm kodlar atanmıştır. Projenin doğru çalıştığına dair testler yapılmış ve senkronize çallıştığı doğrulanmıştır.
+
+
+### • Sprint Retrospective:
+
+
+‣ 3. Sprintte sık yapılamayan sesli toplantılar yerine üyelerin whatsapp üzerinden aktif olmasıyla projenin sekteye uğramadığına takım üyeleri hemfikir olmuştur.
+
+‣ 3. Sprintle birlikte tüm kodlar tamamlanmış ve uygulamanın çalışma durumu kontrol edilmiştir. Takım üyeleri, diğer takım arkadaşlarının yetersiz kaldığı durumlara dahil edilmiştir. Takım dayanışması desteklenmiştir.
+
+‣ Projenin üçüncü sprintinde takım üyelerinin realist ve projeyle paralel giden çalışmaları desteklenmiş ve uygulamanın tamamlanmasıyla birlikte bir aylık süreçte uyum içinde görev alan takım üyeleri başarılarından ötürü tebrik ve takdir edilmiştir.
+
+
+
 
 
 
