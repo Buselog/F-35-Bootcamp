@@ -150,6 +150,9 @@ https://github.com/Buselog/F-35-Bootcamp/assets/127397448/bdf70a0a-75dd-4475-a8e
 
 Ekran Görüntüleri:
 
+
+
+
 ![17](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/5346fb2b-0612-41fe-a90d-69e8e747c97b)
 
 
@@ -162,6 +165,7 @@ Ekran Görüntüleri:
 <img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
 
 ![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
+
 
 
 
@@ -225,7 +229,10 @@ Sprint 3 board :
 
 
 
-<<<<<<<<Panonun son hali eklenecek>>>>>
+
+https://github.com/Buselog/F-35-Bootcamp/assets/127397448/174bb501-9d1d-412e-a7b1-708c212e899f
+
+
 
 
 
@@ -236,21 +243,17 @@ Sprint 3 board :
 
 Ekran Görüntüleri:
 
-![17](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/5346fb2b-0612-41fe-a90d-69e8e747c97b)
 
 
-![16](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/728f71a3-8d27-47d8-9a6a-4c6127d72465)
+![3-1](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/30b623b4-85ec-421c-8267-95a074230288)
 
-<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/baf70a99-4d3f-46d8-aab2-9bb0a5180673" width="300">
+![3-2](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/eddb21f9-3d96-4518-b7f0-20c92b08d56e)
 
-<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/061efa76-ab70-4893-a03e-f5d12e25578f" width="300">
+![3-3](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/0337bafd-391b-4d40-99a4-1b635d65df9a)
 
-<img src="https://github.com/Buselog/F-35-Bootcamp/assets/127397448/73d23d24-abbf-4482-afbc-2bd6f419303f" width="300">
+![3-4](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/d92bf9d4-c956-4c32-8e23-7027dabd6de4)
 
-![67](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/59f34cd0-c21b-4544-9e3d-3e0cfa66dc99)
-
-
-
+![3-5](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/bf88ad3b-74c9-4ca0-991f-6cd2b2bef633)
 
 
 
