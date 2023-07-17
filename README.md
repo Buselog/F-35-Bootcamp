@@ -243,7 +243,9 @@ https://github.com/Buselog/F-35-Bootcamp/assets/127397448/174bb501-9d1d-412e-a7b
 
 Ekran Görüntüleri:
 
+![3-6](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/0f75adab-e53e-4eea-b4c3-ac10fa467e41)
 
+![3-7](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/fdc273f2-668d-4a66-9521-481e1dfd3b6c)
 
 ![3-1](https://github.com/Buselog/F-35-Bootcamp/assets/127397448/30b623b4-85ec-421c-8267-95a074230288)
 
