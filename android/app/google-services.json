@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "47534420888",
+    "project_id": "akademif35",
+    "storage_bucket": "akademif35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47534420888:android:8ef6e549f9299228c571ed",
+        "android_client_info": {
+          "package_name": "com.example.f35"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47534420888-0ota1lmr2ov4870od6l3403cikaj0bc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.f35",
+            "certificate_hash": "7334851c64ca5627760bf2df573fa8f682b9fb76"
+          }
+        },
+        {
+          "client_id": "47534420888-2b7ng0ie5jrmqk9f72m5csr32rdnne2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMl2OdV6zb2I3GD6UU06s-r34JmhSwzpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47534420888-2b7ng0ie5jrmqk9f72m5csr32rdnne2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47534420888-jjd7d1u5d79a681nfucct7j3bh8cf1pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.f35"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
